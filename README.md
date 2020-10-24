@@ -11,14 +11,17 @@ Face Designing software that uses GAN architecture to generate and morph realist
 
 
 
-## Examples
+## Examples (128X128, 150 epochs)
+
+### Female
+
+![female](etc/showcase/female.jpg =250x) 
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/etc/showcase/female.jpg?raw=true)
+
+![](./etc/showcase/female.jpg =100x20)
 
 
-### Face 64X64
-![results after 350 epochs](etc/showcase/face_gan_64_results.png "results after 350 epochs" ) 
-
-
-### Anime 64X64
 ![results after 200 epochs](etc/showcase/anime_face_gan_64_results.png "results after 200 epochs" ) 
 
 
