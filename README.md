@@ -17,7 +17,9 @@ Face Designing software that uses GAN architecture to generate and morph realist
 
 ![female](etc/showcase/female.jpg =250x) 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/etc/showcase/female.jpg?raw=true)
+![alt text](https://github.com/lidorshimoni/Face-DCGAN---Keras/blob/master/etc/showcase/female.jpg?raw=true =100x100)
+
+<img src="https://github.com/lidorshimoni/Face-DCGAN---Keras/blob/master/etc/showcase/female.jpg">
 
 ![](./etc/showcase/female.jpg =100x20)
 
